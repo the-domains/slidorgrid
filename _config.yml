@@ -6,9 +6,9 @@ color:
   saturation: 0.1510254566092044
   rhythmicContrast: 0.9322009577881545
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: SLIDORGRID
