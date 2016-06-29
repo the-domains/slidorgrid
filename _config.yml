@@ -1,0 +1,14 @@
+layout_spectrum: 0.7600338861811906
+typography_spectrum: 0.363993150414899
+color:
+  brandStrength: 0.8253772917669266
+  lightness: 0.3979005024302751
+  saturation: 0.1510254566092044
+  rhythmicContrast: 0.9322009577881545
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: SLIDORGRID
